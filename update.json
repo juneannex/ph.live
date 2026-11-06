@@ -1,9 +1,9 @@
 {
-  "versionCode": 37,
+  "versionCode": 38,
   "versionName": "2.2.25",
   "downloadUrl": "https://github.com/juneannex/ph.live/releases/download/ph.live/ph.live.apk",
   "releaseNotes": [
-    "Fixed reported bugs, instant channel loads, added self update options."
+    "Fixed reported bugs, instant channel loads, added self update options, tv navigation fixed."
   ],
   "minSdk": 23
 }
