@@ -1,10 +1,9 @@
 {
-  "version": "2.2.25",
-  "versionCode": 34,
-  "downloadUrl": "https://github.com/USERNAME/REPOSITORY/releases/download/v2.2.25/PhLive.apk",
-  "mandatory": false,
+  "versionCode": 33,
+  "versionName": "2.2.24",
+  "downloadUrl": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/download/v2.2.24/Ph.Live.apk",
   "releaseNotes": [
-    "Improved app performance",
-    "Bug fixes and stability improvements"
-  ]
+    "Check for app updates from Settings > Updates."
+  ],
+  "minSdk": 23
 }
