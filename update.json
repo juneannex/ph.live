@@ -1,0 +1,10 @@
+{
+  "version": "2.2.25",
+  "versionCode": 34,
+  "downloadUrl": "https://github.com/USERNAME/REPOSITORY/releases/download/v2.2.25/PhLive.apk",
+  "mandatory": false,
+  "releaseNotes": [
+    "Improved app performance",
+    "Bug fixes and stability improvements"
+  ]
+}
