@@ -3,7 +3,7 @@
   "versionName": "2.2.25",
   "downloadUrl": "https://github.com/juneannex/ph.live/releases/download/ph.live/ph.live.v35.apk",
   "releaseNotes": [
-    "Check for app updates from Settings > Updates."
+    "Fixed reported bugs, added self update options."
   ],
   "minSdk": 23
 }
