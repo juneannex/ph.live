@@ -1,9 +1,9 @@
 {
-  "versionCode": 44,
+  "versionCode": 45,
   "versionName": "2.2.25",
   "downloadUrl": "https://github.com/juneannex/ph.live/releases/download/ph.live/ph.live.apk",
   "releaseNotes": [
-    "Fixed logout issues, added favorites options, optimized dash player. Removed logo on top in tv layout."
+    "Fixed logout issues, added favorites options, optimized dash player. Smooth scrolling using remote control."
   ],
   "minSdk": 23
 }
