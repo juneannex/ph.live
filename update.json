@@ -3,8 +3,7 @@
   "versionName": "2.2.25",
   "downloadUrl": "https://github.com/juneannex/ph.live/releases/download/ph.live/ph.live.apk",
   "releaseNotes": [
-    "Added an automatically detected head unit layout with D-pad focus, OK selection, back navigation, and account creation hidden.
-Bumped the app version to 2.2.25 (version code 49)."
+    "Added an automatically detected head unit layout with D-pad focus, OK selection, back navigation, and account creation hidden."
   ],
   "minSdk": 23
 }
