@@ -2,11 +2,11 @@
   "versionCode": 50,
   "versionName": "2.2.25",
   "downloadUrl": "https://github.com/juneannex/ph.live/releases/download/ph.live/ph.live.apk",
-"releaseNotes": [
+  "releaseNotes": [
   "Added Player Behavior settings for phone and head unit layouts, including fullscreen after 3 seconds of inactivity and automatic selection of the last channel on startup.",
   "Added fullscreen channel switching with vertical swipes, headset media buttons, and head unit up/down controls.",
   "Improved audio focus so Ph.Live pauses when another app takes audio focus.",
   "Preserved head unit D-pad focus, OK selection, back navigation, and hidden account creation."
-]
+  ]
   "minSdk": 23
 }
