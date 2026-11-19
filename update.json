@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "2.2.25",
+  "versionCode": 50,
+  "versionName": "2.2.27",
   "downloadUrl": "https://github.com/juneannex/ph.live/releases/download/ph.live/ph.live.apk",
   "releaseNotes": [
     "Added fullscreen channel switching with vertical swipes, headset media buttons, and head unit up/down controls."
