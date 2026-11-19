@@ -3,7 +3,7 @@
   "versionName": "2.2.25",
   "downloadUrl": "https://github.com/juneannex/ph.live/releases/download/ph.live/ph.live.apk",
   "releaseNotes": [
-    "Added an automatically detected head unit layout with D-pad focus, OK selection, back navigation, and account creation hidden."
+    "Added fullscreen channel switching with vertical swipes, headset media buttons, and head unit up/down controls."
   ],
   "minSdk": 23
 }
