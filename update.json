@@ -1,10 +1,10 @@
 {
-  "versionCode": 51,
-  "versionName": "2.2.25",
+  "versionCode": 52,
+  "versionName": "2.2.26",
   "downloadUrl": "https://github.com/juneannex/ph.live/releases/download/ph.live/ph.live.apk",
   "releaseNotes": [
-    "Fixes the published update version so it matches the downloadable APK.",
-    "Uses the existing Ph.Live package and signing certificate for phone and Android TV updates."
+    "Adds Player behavior settings to the Android TV layout.",
+    "Fixes the TV installer handoff and keeps the app open while Android installs the update."
   ],
   "minSdk": 23
 }
